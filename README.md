@@ -174,8 +174,8 @@ Wallet interfaces
 | Espresso Cash           | [Espresso Cash](https://x.com/espresso_cash)   | Yes                  | Dart, Flutter        | GNU         | <a href="https://github.com/espresso-cash/espresso-cash-public" target="_blank">View</a>      |
 | Unruggable              | [Unruggable](https://x.com/unruggable_io)      | Yes                  | Rust, Dioxus         | TBD         | <a href="https://github.com/hogyzen12/unruggable-app" target="_blank">View</a>               |
 | Darklake Android Wallet | [Darklake Labs](https://x.com/darklakefi)      | Yes                  | Kotlin               | GNU         | <a href="https://github.com/darklakefi/android-wallet" target="_blank">View</a>               |
-| Gem Wallet Android      | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Kotlin, Compose      | GPL-3       | <a href="https://github.com/gemwalletcom/gem-android" target="_blank">View</a>               |
-| Gem Wallet iOS          | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Swift                | GPL-3       | <a href="https://github.com/gemwalletcom/gem-ios" target="_blank">View</a>               |
+| Gem Wallet Android      | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Kotlin, Compose      | GPL-3.0     | <a href="https://github.com/gemwalletcom/gem-android" target="_blank">View</a>               |
+| Gem Wallet iOS          | [Gem Wallet](https://x.com/GemWalletApp)       | Yes                  | Swift                | GPL-3.0     | <a href="https://github.com/gemwalletcom/gem-ios" target="_blank">View</a>               |
 | Alpha Wallet            | [Cloakd](https://x.com/CloakdDev)              | No                   | JS, Chrome Extension | MIT         | <a href="https://github.com/alphabatem/alpha-wallet" target="_blank">View</a>               |
 
 
